@@ -1,0 +1,23 @@
+body {
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+  background-color: black;
+  color: whitesmoke;
+}
+#first {
+  font-size: 30px;
+}
+#second {
+  font-size: 70px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+img {
+  border: solid 5px;
+  width: 500px;
+}
+div {
+  width: 50%;
+  margin-left: 25%;
+  padding: 10px;
+}
